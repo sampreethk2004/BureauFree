@@ -1,0 +1,21 @@
+{
+  "name": "bureaufree",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --parallel --aggregate-output --filter @bureaufree/backend --filter @bureaufree/frontend run dev",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "format": "pnpm -r format",
+    "validate": "pnpm lint && pnpm test"
+  }
+}

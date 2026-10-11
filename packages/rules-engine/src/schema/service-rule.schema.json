@@ -1,0 +1,116 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ServiceRuleBundle",
+  "type": "object",
+  "required": ["serviceId", "version", "publishedAt", "rules"],
+  "properties": {
+    "serviceId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "publishedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "description", "priority", "conditions", "event", "metadata", "effectiveFrom"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": {
+            "type": "string"
+          },
+          "priority": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "conditions": {
+            "type": "object",
+            "properties": {
+              "all": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/condition"
+                }
+              },
+              "any": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/condition"
+                }
+              }
+            },
+            "minProperties": 1
+          },
+          "event": {
+            "type": "object",
+            "required": ["type", "params"],
+            "properties": {
+              "type": {
+                "type": "string"
+              },
+              "params": {
+                "type": "object"
+              }
+            }
+          },
+          "metadata": {
+            "type": "object",
+            "required": ["referenceUrl", "collectedAt", "jurisdiction", "reviewer"],
+            "properties": {
+              "referenceUrl": {
+                "type": "string",
+                "format": "uri"
+              },
+              "collectedAt": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "jurisdiction": {
+                "type": "string"
+              },
+              "reviewer": {
+                "type": "string"
+              }
+            }
+          },
+          "effectiveFrom": {
+            "type": "string",
+            "format": "date"
+          },
+          "effectiveTo": {
+            "type": ["string", "null"],
+            "format": "date"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "condition": {
+      "type": "object",
+      "required": ["fact", "operator", "value"],
+      "properties": {
+        "fact": {
+          "type": "string"
+        },
+        "operator": {
+          "type": "string"
+        },
+        "value": {},
+        "path": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,961 @@
+{
+  "auditedAt": "2026-01-10T06:29:30.895Z",
+  "total": 214,
+  "successes": [
+    {
+      "url": "https://eservice.arunachal.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://goaonline.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.arunachalpradesh.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.goa.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://haryana.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://himachal.nic.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.assam.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://jharsewa.jharkhand.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.hp.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://meghalaya.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.jharkhand.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://mizoram.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.odishaone.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://esewa.punjab.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://saralharyana.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.odisha.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do",
+      "status": 200
+    },
+    {
+      "url": "https://vahan.parivahan.gov.in/vahanservice/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.tripura.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://tripura.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://punjab.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://sampark.chd.nic.in/",
+      "status": 200
+    },
+    {
+      "url": "https://dnh.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://manipur.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.py.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://ap.meeseva.gov.in/DeptPortal/UserInterface/LoginForm.aspx",
+      "status": 200
+    },
+    {
+      "url": "https://www.ap.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://sspensions.ap.gov.in/SSP/HomeIndex",
+      "status": 200
+    },
+    {
+      "url": "https://aptransport.org/",
+      "status": 200
+    },
+    {
+      "url": "https://lakshadweep.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.py.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.telangana.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://ts.meeseva.telangana.gov.in/meeseva/home.htm",
+      "status": 200
+    },
+    {
+      "url": "https://transport.telangana.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://telanganaepass.cgg.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://aaplesarkar.mahaonline.gov.in/en/Login/Login",
+      "status": 200
+    },
+    {
+      "url": "https://tgtransport.net/tgcfstonline/",
+      "status": 200
+    },
+    {
+      "url": "https://mahadbt.maharashtra.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://maharerait.mahaonline.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.maharashtra.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://transport.maharashtra.gov.in/1035/Home",
+      "status": 200
+    },
+    {
+      "url": "https://www.karnatakaone.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://sevasindhu.karnataka.gov.in/Sevasindhu/English",
+      "status": 200
+    },
+    {
+      "url": "https://transport.karnataka.gov.in/page/home/english",
+      "status": 200
+    },
+    {
+      "url": "https://transport.karnataka.gov.in/page/forms/driving-licence/en",
+      "status": 200
+    },
+    {
+      "url": "https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml",
+      "status": 200
+    },
+    {
+      "url": "https://transport.karnataka.gov.in/page/forms/learner-licence/en",
+      "status": 200
+    },
+    {
+      "url": "https://www.karnatakatourism.org/",
+      "status": 200
+    },
+    {
+      "url": "https://www.karnatakatourism.org/travel-advisory/",
+      "status": 200
+    },
+    {
+      "url": "https://www.karnatakatourism.org/tour-packages/",
+      "status": 200
+    },
+    {
+      "url": "https://www.karnatakatourism.org/accommodation/",
+      "status": 200
+    },
+    {
+      "url": "https://www.tnpds.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.tn.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.tnesevai.tn.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://tnsta.gov.in/transport/",
+      "status": 200
+    },
+    {
+      "url": "https://tnsta.gov.in/transport/english/learner-licence",
+      "status": 200
+    },
+    {
+      "url": "https://tnsta.gov.in/transport/english/driving-licence",
+      "status": 200
+    },
+    {
+      "url": "https://tnsta.gov.in/transport/english/permits",
+      "status": 200
+    },
+    {
+      "url": "https://www.tnskill.tn.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.up.gov.in/edistrictup/",
+      "status": 200
+    },
+    {
+      "url": "https://up.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://niveshmitra.up.nic.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.delhigovt.nic.in/",
+      "status": 200
+    },
+    {
+      "url": "https://delhi.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://transport.delhi.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.digitalgujarat.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://gujaratindia.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://ikhedut.gujarat.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://cot.gujarat.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://garvigujarat.in/",
+      "status": 200
+    },
+    {
+      "url": "https://edistrict.kerala.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://kerala.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://akshaya.kerala.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://mvd.kerala.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://swasthyasathi.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://sso.rajasthan.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://jansoochna.rajasthan.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://kshb.kerala.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://transport.rajasthan.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mpedistrict.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.india.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://samagra.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.mp.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://web.umang.gov.in/landing",
+      "status": 200
+    },
+    {
+      "url": "https://services.india.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://services.india.gov.in/service/search?kw=&ln=en&se=Life+Event",
+      "status": 200
+    },
+    {
+      "url": "https://www.digilocker.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://web.umang.gov.in/landing/services",
+      "status": 200
+    },
+    {
+      "url": "https://services.india.gov.in/service/listing",
+      "status": 200
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c",
+      "status": 200
+    },
+    {
+      "url": "https://web.umang.gov.in/landing/service-internal/digilocker",
+      "status": 200
+    },
+    {
+      "url": "https://www.mygov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://support.digitallocker.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://scholarships.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://web.umang.gov.in/landing/service/epfo",
+      "status": 200
+    },
+    {
+      "url": "https://www.epfindia.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.incometax.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.pan.utiitsl.com/",
+      "status": 200
+    },
+    {
+      "url": "https://electoralsearch.eci.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://pmkisan.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://pmkisan.gov.in/BeneficiaryStatus.aspx",
+      "status": 200
+    },
+    {
+      "url": "https://pmkisan.gov.in/aadharekyc.aspx",
+      "status": 200
+    },
+    {
+      "url": "https://pmkisan.gov.in/RegistrationForm.aspx",
+      "status": 200
+    },
+    {
+      "url": "https://www.startupindia.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+      "status": 200
+    },
+    {
+      "url": "https://parivahan.gov.in/parivahan/",
+      "status": 200
+    },
+    {
+      "url": "https://eshram.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://register.eshram.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.ncs.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.ncs.gov.in/skill-provider",
+      "status": 200
+    },
+    {
+      "url": "https://www.cowin.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://www.ncs.gov.in/job-seeker",
+      "status": 200
+    },
+    {
+      "url": "https://www.cowin.gov.in/faq",
+      "status": 200
+    },
+    {
+      "url": "https://www.gst.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://myaadhaar.uidai.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://einvoice.gst.gov.in/",
+      "status": 200
+    },
+    {
+      "url": "https://selfservice.gstsystem.in/",
+      "status": 200
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://serviceonline.bihar.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.eservice.manipur.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.mizoram.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.nagaland.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://state.bihar.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://nagaland.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://dlic.punjab.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://sikkimservices.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://uk.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.andaman.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.andaman.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.chandigarh.gov.in/",
+      "status": 400,
+      "reason": "HTTP 400"
+    },
+    {
+      "url": "https://services.dnhddgov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.daman.nic.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://assam.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.cgstate.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.cgstate.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://ladakh.nic.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.lakshadweep.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.punjab.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://sikkim.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://ysraarogyasri.ap.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://ysraarogyasri.ap.gov.in/web/guest/empanelled-hospitals",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://ysraarogyasri.ap.gov.in/web/guest/claim-status",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://ysraarogyasri.ap.gov.in/web/guest/scheme-details",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.uk.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://llrtransport.telangana.gov.in/tgllr/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wehub.telangana.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wehub.telangana.gov.in/apply",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wehub.telangana.gov.in/programs",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.wehub.telangana.gov.in/mentors",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://jk.gov.in/jkeservices",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.maharashtra.gov.in/1123/Driving-License",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://vahan.mahaonline.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.maharashtra.gov.in/1124/Learner-License",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://mahalabharthi.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://mahalabharthi.in/mahiti/login",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://mahalabharthi.in/mahiti/list-of-schemes",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://mahalabharthi.in/mahiti/contact-us",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.karnataka.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.jk.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.tnega.tn.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://scholarship.up.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://uptransport.upsdc.gov.in/en-us/",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://uptransport.upsdc.gov.in/en-us/LearnersLicence",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://uptransport.upsdc.gov.in/en-us/DrivingLicence",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://aptransport.in/LLR/llrMain.do",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.delhi.gov.in/content/driving-licence",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://dleap.delhi.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://aptransport.in/LicenseTestSlots.do",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://aptransport.in/MvcVehicleData.do",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://cot.gujarat.gov.in/online-services",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://dharani.telangana.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://mvd.kerala.gov.in/learner-s-licence",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://mvd.kerala.gov.in/driving-licence",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://tax.mvd.kerala.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://edistrict.wb.gov.in/PACE/login.do",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://banglarbhumi.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://krishakbandhu.net/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.wb.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.wb.gov.in/services/learner-licence/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.wb.gov.in/services/driving-licence/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.wb.gov.in/services/permits/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://swasthyasathi.gov.in/SSHospitalList.aspx",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://swasthyasathi.gov.in/SSDataEntry/Registrationstatus.aspx",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.tnskill.tn.gov.in/jobfair",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.tnskill.tn.gov.in/candidate-registration",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.tnskill.tn.gov.in/training-partners",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://swasthyasathi.gov.in/Files/Guidelines",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.rajasthan.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://transport.rajasthan.gov.in/content/transport-portals/en/transport-department-home/driving-licence.html",
+      "status": 403,
+      "reason": "HTTP 403"
+    },
+    {
+      "url": "https://www.mponline.gov.in/portal/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.passportindia.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.bobble.passportseva",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://portal1.passportindia.gov.in/AppOnlineProject/online/secure/faqPassportSeva",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://scholarships.gov.in/fresh/FAQ",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://unifiedportal-mem.epfindia.gov.in/memberinterface/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://insight.itr.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.mygov.in/task/",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.mygov.in/group-issue/",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://parivahan.gov.in/parivahan/en/content/status-driving-licence-application",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.nvsp.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.nvsp.in/Forms/FormsTrackStatus",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.nvsp.in/Account/Login",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.startupindia.gov.in/content/sih/en/startup-scheme/startup-india-registration.html",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.startupindia.gov.in/content/sih/en/learning-and-development.html",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://www.ncs.gov.in/career-guidance",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://eshram.gov.in/eshram-portal",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://eshram.gov.in/csc-locator",
+      "status": 404,
+      "reason": "HTTP 404"
+    },
+    {
+      "url": "https://nfs.delhi.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://rtogujarat.gov.in/driving-licence",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://wb.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://apnakhata.raj.nic.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://uidai.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://www.aarogyasetu.gov.in/",
+      "status": null,
+      "reason": "fetch failed"
+    },
+    {
+      "url": "https://appointments.uidai.gov.in/bookappointment.aspx",
+      "status": null,
+      "reason": "fetch failed"
+    }
+  ]
+}
